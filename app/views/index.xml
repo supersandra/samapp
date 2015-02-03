@@ -1,0 +1,11 @@
+<Alloy>
+	<Window title="Index">
+		
+		<ImageView id="logga" image="pics/logga.png" />
+		
+		<View>
+			<Button id="Button" title="Vandring" onClick="sendTo"></Button>
+		</View>
+
+	</Window>
+</Alloy>

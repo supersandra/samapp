@@ -1,0 +1,15 @@
+<Alloy>
+	<TabGroup>
+		<Tab title="Vandring">
+			<Window title="Vandring">
+				<Button id="backBtn" title="<" onClick="backTo"></Button>
+			</Window>
+		</Tab>
+		<Tab title="Annat">
+			<Window title="Annat">
+				<Button id="backBtn" title="<" onClick="backTo"></Button>
+				<Label>Workin</Label>
+			</Window>
+		</Tab>
+	</TabGroup>
+</Alloy>

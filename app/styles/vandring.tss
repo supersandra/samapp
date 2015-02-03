@@ -1,0 +1,27 @@
+"Window": {
+	backgroundColor: "#fff"
+}
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000",
+	font: {
+		fontSize: 20,
+		fontFamily: 'Gotham Rounded Medium'
+	},
+	textAlign: 'center'
+}	
+	
+"Button": {
+	color: "#c2c2c2",
+	font: {
+		fontSize: 20,
+		fontFamily: 'Gotham Rounded Medium',
+	}
+}
+
+"#backBtn": {
+	top: 10,
+	left: 10
+}

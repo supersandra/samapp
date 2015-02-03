@@ -1,0 +1,42 @@
+"Window": {
+	backgroundColor: "#fff",
+	layout: "vertical"
+}
+
+"View": {
+	top: "10%",
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE
+}
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000",
+	font: {
+		fontSize: 20,
+		fontFamily: 'Gotham Rounded Medium'
+	},
+	textAlign: 'center'
+}	
+	
+"Button": {
+	color: "#c2c2c2",
+	font: {
+		fontSize: 20,
+		fontFamily: 'Gotham Rounded Medium',
+	}
+}
+
+"#logga": {
+	top: 30,
+	width: "85%"
+}
+
+
+
+
+
+
+
+
